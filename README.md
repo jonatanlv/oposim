@@ -9,8 +9,8 @@ Los parámetros que se pueden cambiar son (entre otros):
 
 ## Uso
 Para compilar usar el makefile proporcionado, ejecutar make.
-./oposim Ejecuta el programa con las opciones por defecto.
-./oposim -? Muestra la ayuda con las opciones disponibles.
+- ./oposim Ejecuta el programa con las opciones por defecto.
+- ./oposim -? Muestra la ayuda con las opciones disponibles.
 
 ## Motivación
 En realidad me lo planteé como un ejercicio para practicar programando en C. Cualquier sugerencia de mejora (explicada) será bien recibida. El principal objetivo es aprender.
